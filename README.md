@@ -1,0 +1,5 @@
+![Home Page](https://github.com/Fuat47/Farm-Management-System/assets/82528882/e66a3495-829b-4298-87da-857fc9630458)
+![Admin Selection](https://github.com/Fuat47/Farm-Management-System/assets/82528882/0ff47993-ebda-40ab-95a1-fcd54336ee9f)
+![Animal List](https://github.com/Fuat47/Farm-Management-System/assets/82528882/7f9e76d5-856e-41c0-a1bd-aeab17d19f6f)
+![Products](https://github.com/Fuat47/Farm-Management-System/assets/82528882/8f634177-e265-455d-b4ed-4ba22a36f44d)
+![Customer](https://github.com/Fuat47/Farm-Management-System/assets/82528882/241c8e86-7d8f-438a-9d37-3462edad2b50)
